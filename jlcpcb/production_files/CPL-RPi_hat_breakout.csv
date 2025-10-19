@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,GPIO,PinSocket_2x20_P2.54mm_Vertical,137.1,-65.5,270.0,bottom
+J2,GPIO,PinSocket_2x20_P2.54mm_Vertical,137.27,-111.42,90.0,top
+J3,GPIO,PinSocket_2x20_P2.54mm_Vertical,137.07,-74.73,90.0,top
